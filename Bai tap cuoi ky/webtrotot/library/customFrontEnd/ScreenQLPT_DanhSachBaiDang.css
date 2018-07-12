@@ -1,0 +1,11 @@
+.is-active{
+    background-color: #c5e9ee!important;
+    
+}
+.is-active a {
+    background: #c5e9ee !important;
+    color: black!important;
+}
+.margin-sidebar{
+    margin-left: 250px !important
+}
